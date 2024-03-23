@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a curious and passionate data analyst
 -----------------------------------------
 
-\-Having 8+ years of experience as an analyst, reporter and executive I now draw my attention to data science. 
+\-Having 8+ years of experience as an analyst, reporter and manager I now draw my attention to data science. 
 -Proficiency in exploratory data analysis: cleaning data, analyzing and visualizing it using Python and popular libraries. 
--Additionally expertise in SQL was acquired, facilitating work with databases. 
+-Expertise in SQL was acquired, facilitating work with databases. 
 -Unique perspective to understand the requests of executives and needs of a job and create presentations and reports. 
 -As an INTP analytical and deep thinking abilities, eager to learn new things and a good team member
 
