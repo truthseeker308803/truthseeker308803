@@ -1,16 +1,21 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serahsi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serahsi
 ===============================================================================================================================
 
 I'm a curious and passionate data analyst
 -----------------------------------------
 
-\-Having 8+ years of experience as an analyst, reporter and executive I now draw my attention to data science. -Proficiency in exploratory data analysis: cleaning data, analyzing and visualizing it using Python and popular libraries. -Additionally expertise in SQL was acquired, facilitating work with databases. -Unique perspective to understand the requests of executives and needs of a job and create presentations and reports. -As an INTP analytical and deep thinking abilities, eager to learn new things and a good team member
+\-Having 8+ years of experience as an analyst, reporter and executive I now draw my attention to data science. 
+-Proficiency in exploratory data analysis: cleaning data, analyzing and visualizing it using Python and popular libraries. 
+-Additionally expertise in SQL was acquired, facilitating work with databases. 
+-Unique perspective to understand the requests of executives and needs of a job and create presentations and reports. 
+-As an INTP analytical and deep thinking abilities, eager to learn new things and a good team member
 
 *   🌍  I'm based in Aydın, Türkiye
 *   ✉️  You can contact me at [truthseeker@gmail.com](mailto:truthseeker@gmail.com)
 *   🚀  I'm currently working on [US Citizen Analyze](http://github.com/truthseeker308803/EDA)
 *   🧠  I'm learning PANDAS, NUMPY, SEABORN, MATPLOTLIB, TABLEAU
 *   ⚡  I'm a big fan of nature documentaries### Skills 
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
                     </p>
