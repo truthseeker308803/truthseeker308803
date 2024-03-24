@@ -1,31 +1,79 @@
-<h1 align="center">Hi 👋, I'm Serahsi</h1>
-<h3 align="center">A curious and passionate data analyst from Türkiye</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Serahsi+Sen!;" />
+</h1>
+<h3 align="center">A curious and passionate data analyst from Turkey</h3>
+<br/>
+<div align="center">
+ 
+ :telescope: I'm currently working on **US Citizen Exploratory Data Analysis**
+ 
+ :seedling: I'm currently learning **Numpy, Pandas, Matplotlib, Seaborn, Tableau**<br><br>
+:speech_balloon: Ask me about **Python and data science libraries**<br><br>
+:zap: I am a big fan of **nature documentaries**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:truthseeker308803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/serahsi-sen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/serahsi.sen/vizzes" target="_blank">
+     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+ <a href="https://www.kaggle.com/serahsisen">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/22994857/serahsi-sen">
+    <img src=" 	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+   <a href="https://www.hackerrank.com/profile/serahsi">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+   <a href="https://medium.com/@truthseeker308803">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+ <hr/>
+ 
+<h2 align="center">:hammer_and_pick: Languages-Frameworks-Tools :hammer_and_pick:</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="border-radius: 20; margin-left: 10px;" alt="mssql" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="border-radius: 20;" alt="mssql" width="50" height="50"/> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="border-radius: 20; "background-color: red;" alt="seaborn" width="55" height="55" />
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" style="border-radius: 20;" alt="mssql" width="50" height="50"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" style="border-radius: 50%;" alt="tableau" width="50" height="50"/> </a>
+  <br>  
+  <img src="https://skillicons.dev/icons?i=html,css,github,git,linux,ubuntu,anaconda,vscode,azure" />
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serahsi&label=Profile%20views&color=0e75b6&style=flat" alt="serahsi" /> </p>
-
-- 🔭 I’m currently working on [US Citizen EDA Project](https://github.com/Serahsi/EDA/blob/4a817c699b4a45871576928fb17f540dcc8c240f/DA%20DVwPy-EDA%20Project%20(Analyze%20US%20Citizens)-Student-V02_Updated.ipynb)
-
-- 🌱 I’m currently learning **NUMPY, PANDAS, MATPLOTLIB, SEABORN and TABLEAU**
-
-- 👯 I’m looking to collaborate on **further projects**
-
-- 📝 I am going to write articles on [https://medium.com/@truthseeker308803](https://medium.com/@truthseeker308803)
-
-- 📫 How to reach me **truthseeker308803@gmail.com**
-
-- ⚡ I am a big fan of **nature documentaries**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/serahsi-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serahsi-sen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22994857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22994857" height="30" width="40" /></a>
-<a href="https://kaggle.com/serahsisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="serahsisen" height="30" width="40" /></a>
-<a href="https://medium.com/@truthseeker308803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@truthseeker308803" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/serahsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="serahsi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-
+ 
+    
+</div>
+<br/>
+<hr/>
+<div align="center">
+  <h2>:snake: My Contributions :snake:</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
+<h2 align="center">:zap: Stats :zap:</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br/><br/>
+<hr/>
+<br/>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+<br/>
