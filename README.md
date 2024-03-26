@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=Serahsi&style=for-the-badge&color=orange)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Serahsi+Sen!;A+Curious+Data+Analyst!+🔍" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Serahsi+Sen!;A+Curious+🔍+Data+Analyst!+" />
 </h1>
-<h3 align="center">Having 8+ years of analyst, experience now focused on ✒️<code style="color : aqua">Data Analysis</code></h3>
+<h3 align="center">Having 8+ years of analyst experience, now focused on ✒️<code style="color : aqua">Data Analysis</code></h3>
 <br/>
 <div align="center">
  
