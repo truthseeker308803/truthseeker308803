@@ -5,12 +5,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Serahsi+Sen!;A+Curious+Data+Analyst!+🔍" />
 </h1>
-<h3 align="center">Having 8+ years of analyst experience now focused on ✒️<code style="color : aqua">Data Analysis</code></h3>
+<h3 align="center">Having 8+ years of analyst, experience now focused on ✒️<code style="color : aqua">Data Analysis</code></h3>
 <br/>
 <div align="center">
  
  :telescope: I'm currently working on **US Citizen Exploratory Data Analysis** 📊 📈 📋<br><br>
- :seedling: I'm currently learning **Numpy, Pandas, Matplotlib, Seaborn, Tableau**<br><br>
+ :seedling: I'm recently learning **Numpy, Pandas, Matplotlib, Seaborn, Tableau**<br><br>
 :speech_balloon: Ask me about **Python and Data Science libraries**<br><br>
 :zap: I am a big fan of **nature documentaries** 🐧
  </div>
