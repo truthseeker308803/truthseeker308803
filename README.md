@@ -76,5 +76,5 @@
 <br/><br/>
 </div>
 <br/>
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
-![Snake animation](https://raw.githubusercontent.com/{Serahsi}/{Serahsi}/output/github-contribution-grid-snake-dark.svg)
