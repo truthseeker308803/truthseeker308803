@@ -51,7 +51,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,github,git,linux,ubuntu,anaconda,vscode,azure" />
  
 
- 
     
 </div>
 <br/>
@@ -67,10 +66,12 @@
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Serahsi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Serahsi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Serahsi&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Serahsi&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Serahsi&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Serahsi&theme=onedark" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Serahsi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 </div>
