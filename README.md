@@ -51,17 +51,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,github,git,linux,ubuntu,anaconda,vscode,azure" />
  
 
-    
-</div>
-<br/>
-<hr/>
-<div align="center">
-  <h2>:snake: My Contributions :snake:</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Serahsi/Serahsi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 <hr/>
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
@@ -72,3 +61,14 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Serahsi&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Serahsi&theme=onedark" />
   <br/>
+
+</div>
+<br/>
+<hr/>
+<div align="center">
+  <h2>:snake: My Contributions :snake:</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Serahsi/Serahsi/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
