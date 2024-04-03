@@ -58,7 +58,7 @@
 <div align="center">
   <h2>:snake: My Contributions :snake:</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Serahsi/Serahsi/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -72,9 +72,3 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Serahsi&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Serahsi&theme=onedark" />
   <br/>
-</div>
-<br/><br/>
-</div>
-<br/>
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
-
