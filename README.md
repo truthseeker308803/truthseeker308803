@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
  
- :telescope: I'm currently working on **US Citizen Exploratory Data Analysis** 📊 📈 📋<br><br>
+ :telescope: I'm currently working on **New York Stock Exchange Dataset** 📊 📈 📋<br><br>
  :seedling: I'm recently learning **Numpy, Pandas, Matplotlib, Seaborn, Tableau**<br><br>
 :speech_balloon: Ask me about **Python and Data Science libraries**<br><br>
 :zap: I am a big fan of **nature documentaries** 🐧
